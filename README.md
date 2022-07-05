@@ -1,7 +1,7 @@
 # world_time
 
 A new Flutter project.
-
+Thanks to FlutterNinja
 ## Getting Started
 
 This project is a starting point for a Flutter application.
